@@ -1,4 +1,6 @@
 ﻿ 
+ // Subtraindo o produto e a soma de um número inteiro
+
  
  int n = Convert.ToInt32(Console.ReadLine());
         int p = 1, s = 0;

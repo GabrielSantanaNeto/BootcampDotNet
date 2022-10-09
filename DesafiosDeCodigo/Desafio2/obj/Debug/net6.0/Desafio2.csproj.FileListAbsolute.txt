@@ -1,0 +1,15 @@
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\bin\Debug\net6.0\Desafio2.exe
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\bin\Debug\net6.0\Desafio2.deps.json
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\bin\Debug\net6.0\Desafio2.runtimeconfig.json
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\bin\Debug\net6.0\Desafio2.dll
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\bin\Debug\net6.0\Desafio2.pdb
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.csproj.AssemblyReference.cache
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.AssemblyInfoInputs.cache
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.AssemblyInfo.cs
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.dll
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\refint\Desafio2.dll
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.pdb
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\Desafio2.genruntimeconfig.cache
+C:\DIO\BootcampDotNet\DesafiosDeCodigo\Desafio2\obj\Debug\net6.0\ref\Desafio2.dll
